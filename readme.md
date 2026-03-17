@@ -1,1 +1,1 @@
-The code of the FETI-SAW algorithm is coming soon!
+The code for the FETI-SAW algorithm will be released after the paper is accepted!
