@@ -1,1 +1,1 @@
-The code for the FETI-SAW algorithm will be released after the paper is accepted!
+The code for the FETI-SAW algorithm will be released after the paper is published.
