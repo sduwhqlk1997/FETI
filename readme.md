@@ -4,7 +4,7 @@ This repository contains the source code associated with the **FETI-SAW** paper.
 
 ## ⚠️ Notice
 
-To protect intellectual property, **only limited demo examples are provided prior to the official publication of the paper**. The full implementation and all configurable algorithmic parameters will be released after the paper is formally published.
+To protect intellectual property, **only limited demo examples are provided prior to the official publication of the paper**. The core implementation and all configurable algorithmic parameters will be released after the paper is formally published.
 
 ---
 
