@@ -1,4 +1,4 @@
-# FETI-SAW: Source Code Repository
+# FETI-SAW: An Efficient Domain Decomposition Solver for FE Simulation of SAW Devices
 
 This repository contains the source code associated with the **FETI-SAW** paper.
 
